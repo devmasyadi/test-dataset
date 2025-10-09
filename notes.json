@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "gamepad"
+    },
+    {
+      "id": 1,
+      "name": "helikopter"
+    },
+    {
+      "id": 2,
+      "name": "jungkat"
+    },
+    {
+      "id": 3,
+      "name": "kunci"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

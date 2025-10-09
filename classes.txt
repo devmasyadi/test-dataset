@@ -1,0 +1,4 @@
+gamepad
+helikopter
+jungkat
+kunci
